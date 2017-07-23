@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\Lesson6\ArrayDelegate\bin\Debug\ArrayDelegate.exe
+E:\Matyukov\csharp\Lesson6\ArrayDelegate\bin\Debug\ArrayDelegate.pdb
+E:\Matyukov\csharp\Lesson6\ArrayDelegate\obj\x86\Debug\ArrayDelegate.exe
+E:\Matyukov\csharp\Lesson6\ArrayDelegate\obj\x86\Debug\ArrayDelegate.pdb

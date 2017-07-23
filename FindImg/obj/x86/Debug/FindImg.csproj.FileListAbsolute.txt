@@ -1,0 +1,5 @@
+E:\Matyukov\csharp\Lesson6\FindImg\bin\Debug\FindImg.exe
+E:\Matyukov\csharp\Lesson6\FindImg\bin\Debug\FindImg.pdb
+E:\Matyukov\csharp\Lesson6\FindImg\obj\x86\Debug\FindImg.exe
+E:\Matyukov\csharp\Lesson6\FindImg\obj\x86\Debug\FindImg.pdb
+e:\Matyukov\csharp\Lesson6\FindImg\obj\x86\Debug\FindImg.csprojResolveAssemblyReference.cache
